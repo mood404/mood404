@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/_Rodney%20Camilo-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodneycamilo/)
 [![Github](https://img.shields.io/badge/_Rodney[mood404]-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
 
-((< script src="https://tryhackme.com/badge/635817"></script>))
+((< image src="https://tryhackme.com/badge/635817">))
 
 {{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ### My Hack The Box writeups: https://git.io/htb-writeups
 <a href=https://www.buymeacoffee.com/f4T1H21><img src="https://github.com/f4T1H21/f4T1H21/blob/main/support.png" width="221" height="40" alt="Support"></a>
 
-![f4T1H21's Github Stats](https://github-readme-stats.vercel.app/api?username=f4T1H21&show_icons=true&theme=algolia&count_private=true&hide=prs)
+![mood404's Github Stats](https://github-readme-stats.vercel.app/api?username=mood404&show_icons=true&theme=algolia&count_private=true&hide=prs)
 
 <br>
 
