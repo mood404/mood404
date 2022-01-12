@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/_Rodney%20Camilo-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodneycamilo/)
 [![Github](https://img.shields.io/badge/_Rodney[mood404]-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
-[![TryHackMe](https://img.shields.io/badge/_TryHackMe-FFDD00.svg?style=flat&logo=tryhackme&logoColor=white (https://tryhackme.com/p/c4mil0)
+[![TryHackMe](https://img.shields.io/badge/_TryHackMe-FFDD00.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/c4mil0)
 
 
 {<script> <src="https://tryhackme.com/badge/635817"></script>}
