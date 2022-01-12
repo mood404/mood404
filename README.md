@@ -1,10 +1,10 @@
 ### Hi there, if you wanna know more about me: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mood404.mood404)
 
-[![LinkedIn](https://img.shields.io/badge/_Rodney%20Camilo-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodneycamilo/)-
-[![Github](https://img.shields.io/badge/_Rodney[mood404]-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)-
-[![TryHackMe](https://img.shields.io/badge/_TryHackMe%20Profile-494649.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/c4mil0)-
-[![HackTheBox](https://img.shields.io/badge/_Rodney-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/)](https://app.hackthebox.eu/profile/)-
-[![Hackerone](https://img.shields.io/badge/_Rodney-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/Rodney?type=user)](https://hackerone.com/Rodney?type=user)-
+[![LinkedIn](https://img.shields.io/badge/_Rodney%20Camilo-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodneycamilo/) _ 
+[![Github](https://img.shields.io/badge/_Rodney[mood404]-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/) _ 
+[![TryHackMe](https://img.shields.io/badge/_TryHackMe%20Profile-494649.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/c4mil0) _ 
+[![HackTheBox](https://img.shields.io/badge/_Rodney-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/)](https://app.hackthebox.eu/profile/) _ 
+[![Hackerone](https://img.shields.io/badge/_Rodney-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/Rodney?type=user)](https://hackerone.com/Rodney?type=user) _ 
 [![MyResume](https://img.shields.io/badge/_My%20Resume-A81D33.svg?style=flat&logoColor=white)](#)
 
 
