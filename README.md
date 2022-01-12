@@ -4,6 +4,7 @@
 [![Github](https://img.shields.io/badge/_Rodney[mood404]-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
 [![TryHackMe](https://img.shields.io/badge/_TryHackMe%20Profile-494649.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/c4mil0)
 [![HackTheBox](https://img.shields.io/badge/_Rodney-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/)](https://app.hackthebox.eu/profile/)
+[![Hackerone](https://img.shields.io/badge/_Rodney-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/Rodney?type=user)](https://hackerone.com/Rodney?type=user)
 
 
 
@@ -22,11 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --
 
-
-
-[![HackTheBox](https://img.shields.io/badge/_f4T1H21-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/184235)](https://app.hackthebox.eu/profile/184235)
-[![Hackerone](https://img.shields.io/badge/_f4T1H21-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/f4t1h?type=user)](https://hackerone.com/f4T1H21?type=user)
-[![BuyMeaCoffee](https://img.shields.io/badge/_f4T1H21-FFDD00.svg?style=flat&logo=buymeacoffee&logoColor=white&link=https://www.buymeacoffee.com/f4T1H21)](https://www.buymeacoffee.com/f4T1H21)
 
 
 ### Technologies I'm dealing with
