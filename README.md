@@ -7,11 +7,12 @@
 [![Hackerone](https://img.shields.io/badge/_Rodney-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/Rodney?type=user)](https://hackerone.com/Rodney?type=user)
 
 
-### Technologies I'm dealing with
+### That are what I'm dealing with...
 
-[![Python](https://img.shields.io/badge/_python-3776AB.svg?style=for-the-badge&logo=python&labelColor=black)](#)
-[![Bash](https://img.shields.io/badge/_bash-4EAA25.svg?style=for-the-badge&logo=gnubash&labelColor=black)](#)
-[![Arch](https://img.shields.io/badge/_arch-3776AB.svg?style=for-the-badge&logo=archlinux&labelColor=black)](#)
-[![Debian](https://img.shields.io/badge/_debian-A81D33.svg?style=for-the-badge&logo=debian&labelColor=black&logoColor=A81D33)](#)
+[![Pentest](https://img.shields.io/badge/_Pentest-3776AB.svg?style=for-the-badge&labelColor=black)](#)
+[![RedTeam](https://img.shields.io/badge/_RedTeam-A81D33.svg?style=for-the-badge&labelColor=black&logoColor=A81D33)](#)
+[![Scripts](https://img.shields.io/badge/_Scripts-4EAA25.svg?style=for-the-badge&labelColor=black)](#)
+[![CyberSecurity](https://img.shields.io/badge/_CyberSecurity-3776AB.svg?style=for-the-badge&labelColor=black)](#)
+
 
 
