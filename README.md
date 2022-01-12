@@ -5,6 +5,7 @@
 [![TryHackMe](https://img.shields.io/badge/_TryHackMe%20Profile-494649.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/c4mil0)
 [![HackTheBox](https://img.shields.io/badge/_Rodney-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/)](https://app.hackthebox.eu/profile/)
 [![Hackerone](https://img.shields.io/badge/_Rodney-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/Rodney?type=user)](https://hackerone.com/Rodney?type=user)
+[![MyResume](https://img.shields.io/badge/_My%20Resume-A81D33.svg?style=flat&logoColor=white)](#)
 
 
 ### These are the subject I'm dealing with...
