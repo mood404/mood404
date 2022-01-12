@@ -3,11 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/_Rodney%20Camilo-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodneycamilo/)
 [![Github](https://img.shields.io/badge/_Rodney[mood404]-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
 [![TryHackMe](https://img.shields.io/badge/_TryHackMe%20Profile-494649.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/c4mil0)
+[![HackTheBox](https://img.shields.io/badge/_Rodney-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/)](https://app.hackthebox.eu/profile/)
 
 
-{<script> <src="https://tryhackme.com/badge/635817"></script>}
-
-{{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
 <!--
 **mood404/mood404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +23,6 @@ Here are some ideas to get you started:
 --
 
 
-[![LinkedIn](https://img.shields.io/badge/_%C5%9Eefik%20Efe-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/şefik-efe/)
-[![Github](https://img.shields.io/badge/_f4T1H21-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
 
 [![HackTheBox](https://img.shields.io/badge/_f4T1H21-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/184235)](https://app.hackthebox.eu/profile/184235)
 [![Hackerone](https://img.shields.io/badge/_f4T1H21-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/f4t1h?type=user)](https://hackerone.com/f4T1H21?type=user)
