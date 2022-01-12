@@ -7,12 +7,13 @@
 [![Hackerone](https://img.shields.io/badge/_Rodney-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/Rodney?type=user)](https://hackerone.com/Rodney?type=user)
 
 
-### That are what I'm dealing with...
+### These are the subject I'm dealing with...
 
 [![Pentest](https://img.shields.io/badge/_Pentest-3776AB.svg?style=for-the-badge&labelColor=black)](#)
 [![RedTeam](https://img.shields.io/badge/_RedTeam-A81D33.svg?style=for-the-badge&labelColor=black&logoColor=A81D33)](#)
 [![Scripts](https://img.shields.io/badge/_Scripts-4EAA25.svg?style=for-the-badge&labelColor=black)](#)
-[![CyberSecurity](https://img.shields.io/badge/_CyberSecurity-3776AB.svg?style=for-the-badge&labelColor=black)](#)
+[![CyberSecurity](https://img.shields.io/badge/_CyberSecurity-494649.svg?style=for-the-badge&labelColor=black)](#)
+[![Hacking](https://img.shields.io/badge/_Ethical%20Hacking-181717.svg?style=for-the-badge&labelColor=black)](#)
 
 
 
