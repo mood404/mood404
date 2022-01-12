@@ -1,7 +1,7 @@
 ### Hi there 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Visitors](https://visitor-badge.laobi.icu/badge?page_id=mood404.mood404)
 
-[![LinkedIn](https://img.shields.io/badge/_%C5%9Eefik%20Efe-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/şefik-efe/)
-[![Github](https://img.shields.io/badge/_f4T1H21-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
+[![LinkedIn](https://img.shields.io/badge/_%C5%9Rodney%20Camilo-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodneycamilo/)
+[![Github](https://img.shields.io/badge/_Rodney-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
 
 <!--
 **mood404/mood404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
