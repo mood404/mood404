@@ -5,6 +5,8 @@
 
 <script src="https://tryhackme.com/badge/635817"></script>
 
+{{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
+
 <!--
 **mood404/mood404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
