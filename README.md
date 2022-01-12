@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/_Rodney%20Camilo-0A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodneycamilo/)
 [![Github](https://img.shields.io/badge/_Rodney[mood404]-181717.svg?style=flat&logo=github&logoColor=white&link=https://github.com/mood404/)](https://github.com/mood404/)
 
-< image src="https://tryhackme.com/badge/635817">
+<img src="https://tryhackme-badges.s3.amazonaws.com/c4mil0.png" alt="TryHackMe">
 
 {{< image src="https://www.hackthebox.eu/badge/image/161927" alt="Hack The Box" style="max-width: 256px; display: inline" >}}
 
