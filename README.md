@@ -5,7 +5,7 @@
 [![TryHackMe](https://img.shields.io/badge/_TryHackMe%20Profile-00324e.svg?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/c4mil0) _ 
 [![HackTheBox](https://img.shields.io/badge/_Hack%20The%20Box-9FEF00.svg?style=flat&logo=hackthebox&logoColor=white&link=https://app.hackthebox.eu/profile/)](https://app.hackthebox.eu/profile/) _ 
 [![Hackerone](https://img.shields.io/badge/_HackerOne-494649.svg?style=flat&logo=hackerone&logoColor=white&link=https://hackerone.com/Rodney?type=user)](https://hackerone.com/Rodney?type=user) _ 
-[![MyResume](https://img.shields.io/badge/_My%20Resume-A81D33.svg?style=flat&logoColor=white)](#)
+[![MyResume](https://img.shields.io/badge/_My%20Resume-A81D33.svg?style=flat&logoColor=white)](https://github.com/mood404/MyResume/blob/9b9ded9201334edab346b5b1eb0f6ecbeeb57191/RodneyCamilo_Resume.pdf)
 
 
 ### These are the subject I'm dealing with...
