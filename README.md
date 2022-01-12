@@ -15,6 +15,8 @@
 [![Scripts](https://img.shields.io/badge/_Scripts-4EAA25.svg?style=for-the-badge&labelColor=black)](#)
 [![CyberSecurity](https://img.shields.io/badge/_CyberSecurity-494649.svg?style=for-the-badge&labelColor=black)](#)
 [![Hacking](https://img.shields.io/badge/_Ethical%20Hacking-181717.svg?style=for-the-badge&labelColor=black)](#)
+[![Linux](https://img.shields.io/badge/_Linux-orange.svg?style=for-the-badge&labelColor=black)](#)
+[![PrivEsc](https://img.shields.io/badge/_PrivEsc-purple.svg?style=for-the-badge&labelColor=black)](#)
 
 
 
